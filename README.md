@@ -1,6 +1,5 @@
 # Blockchain Full-Stack AI Engineer
 
-> The sky has no limits. Why limit yourself
 
 Building high-performance decentralized applications with a deep focus on smart contracts, DeFi, and scalable backend systems.
 
