@@ -13,6 +13,31 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
 
 ### AI Agents & Automation
 
+#### 🤖 Polymarket trading bot
+
+<table>
+<tr>
+<td width="60%">
+
+This trading bot is designed specifically for the 5-minute BTC markets on Polymarket. It executes a structured limit-order strategy by placing simultaneous positions on both “Up” and “Down” shares at predefined price levels (e.g., $0.47), aiming to capture short-term pricing inefficiencies.
+
+**Tech Stack:** Python, Web3, Polymarket
+
+**Stats:** 10.5k+ Downloads | 160 Stars | 100 Forks
+
+🔗 [Live Demo](https://www.youtube.com/watch?v=DLhBdoVSUmk)
+
+</td>
+<td width="40%">
+
+<img src="./assets/agentipy.png" alt="AgentiPy" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
 #### 🤖 AgentiPy
 
 <table>
