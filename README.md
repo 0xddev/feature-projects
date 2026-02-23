@@ -30,7 +30,7 @@ This trading bot is designed specifically for the 5-minute BTC markets on Polyma
 </td>
 <td width="40%">
 
-<img src="./assets/image(17).png" alt="Polymarket trading bot" width="100%" />
+<img src="./assets/image (17).jpg" alt="Polymarket trading bot" width="100%" />
 
 </td>
 </tr>
