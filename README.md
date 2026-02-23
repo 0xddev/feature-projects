@@ -13,7 +13,7 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
 
 ### AI Agents & Automation
 
-#### 🤖 Polymarket trading bot
+#### 📈 Polymarket trading bot
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ This trading bot is designed specifically for the 5-minute BTC markets on Polyma
 </td>
 <td width="40%">
 
-<img src="./assets/agentipy.png" alt="AgentiPy" width="100%" />
+<img src="./assets/image(17).png" alt="Polymarket trading bot" width="100%" />
 
 </td>
 </tr>
